@@ -1,2 +1,2 @@
 # LonWGP
-Longitudinal Wrapped Gaussian Process 
+Longitudinal Wrapped Gaussian Process on Riemannian Manifold-Valued Data
